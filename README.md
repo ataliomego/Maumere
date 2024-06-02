@@ -1,36 +1,12 @@
-<h2 align="center">AutoScript Install SSH & OpenVPN For Debian VPS By KingKongVPN <img src="https://img.shields.io/badge/Version-3.0.4-blue.svg"></h2>
-
-
-<h2 align="center"> Supported Linux Distribution</h2>
-<p align="center"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=debian&label=Debian%209&message=Stretch&color=red"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=debian&label=Debian%2010&message=Buster&color=red"></p>
-
-<p align="center"><img src="https://img.shields.io/badge/Service-OpenSSH-success.svg">  <img src="https://img.shields.io/badge/Service-Dropbear-success.svg">  <img src="https://img.shields.io/badge/Service-BadVPN-success.svg">  <img src="https://img.shields.io/badge/Service-Stunnel-success.svg">  <img src="https://img.shields.io/badge/Service-OpenVPN-success.svg">  <img src="https://img.shields.io/badge/Service-Squid3-success.svg">  <img   src="https://img.shields.io/badge/Service-Webmin-success.svg">   <img src="https://img.shields.io/badge/Service-Privoxy-success.svg">  <img src="https://img.shields.io/badge/Service-Xray-success.svg"> 
-
-
-## Commands : <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=powershell&label=Code&message=Bash%20Script&color=lightgray">
-
-
 ## Installation :
 
   ```html
-wget https://raw.githubusercontent.com/xiihaiqal/AutoScriptVPS/master/AutoScript && bash AutoScript
+wget https://raw.githubusercontent.com/ataliomego/Maumere/main/AutoScript && bash AutoScript
   ```
-<h3 align="center">Screenshots</h3>
-<p align="center">
-<img src="https://github.com/xiihaiqal/AutoScriptVPS/raw/master/Snapshots/1.png">
-   </p>
-  <p align="center">
-  <img src="https://github.com/xiihaiqal/AutoScriptVPS/raw/master/Snapshots/3.png">
-   </p>
-  <p align="center">
-  <img src="https://github.com/xiihaiqal/AutoScriptVPS/raw/master/Snapshots/4.png">
-   </p>
-   
 
 ## Update Changelog :
-### 5/9/2023 :
+### 02-06-2024 :
 * Added reinstall server option 
-### 1/9/2023 :
 * Added Xray Multiport
 * Change Ui
 * Add auto remove expired user
@@ -62,6 +38,3 @@ wget https://raw.githubusercontent.com/xiihaiqal/AutoScriptVPS/master/AutoScript
 * ARA-(®POWERRANGERS OFFICIAL™®)
 * John Ford
 * _Dreyannz_
-
-## Donations :  <a href="https://paypal.me/kingkongvpn" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=paypal&label=Paypal&message=Click%20Here&color=blue"></a>
-
