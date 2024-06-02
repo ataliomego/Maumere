@@ -1,5 +1,10 @@
 #!/bin/bash
-# Created by xiihaiqal
+# ****************************************
+# Program: Auto Installer VPN Server     *
+# Developer: Magepanda VPN               *
+# Nickname: Choy CND                     *
+# FB Page : Alvarisha Official           *
+# ****************************************
 # Lock User.
 red='\e[31m'
 green='\e[32m'
